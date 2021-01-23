@@ -1,14 +1,6 @@
 # Thesis: "Can the news media influence the stock market?"
 > A Twitter Sentiment Analysis Case Study
 
-## Table of contents
-* [General info](#general-info)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
-
 ## General info
 The whole point of this project was to test the power of sentiment analysis with a practical case study. 
 
