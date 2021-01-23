@@ -18,7 +18,9 @@ The results were surprising: even after controlling for macroeconomical variable
 
 ## Setup
 I used
+
 · R (3.6.2 ver)
+
 · Python (3.7.6 ver)
 
 More recent versions can be used. The Python scrapper doesn't require OAuth identification, so you won't need to create a Twitter Developer Account.
