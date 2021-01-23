@@ -45,7 +45,7 @@ Finished
 ## Inspiration
 My thesis tutor inspired me to do "something different" for my thesis. At first I thought about testing the relationship between the sentiment of american politician's tweets and the exchange rate of cryptocurrencies. Such project was impossible: almost no politicians talked about cryptos, so the sample size was too low.
 
-Then I found [a paper that found a relevant relationship between the news media and consumer sentiment](https://ideas.repec.org/p/fip/fedgfe/2004-51.html), and I thought it would be interesting to test if the news media could also affect investors.
+Then I found [a paper that found a relevant relationship between the news media and consumer sentiment](https://ideas.repec.org/p/fip/fedgfe/2004-51.html). I thought it would be interesting to test if the news media could also affect investors.
 
 ## Contact
-Created by [Daniel Beleña](https://www.linkedin.com/in/daniel-bele%C3%B1a-gonz%C3%A1lez-949917146/) - feel free to contact me!
+Created by [Daniel Beleña](https://www.linkedin.com/in/daniel-bele%C3%B1a-gonz%C3%A1lez-949917146/?locale=en_US) - feel free to contact me!
