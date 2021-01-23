@@ -18,7 +18,7 @@ Therefore, maybe the news media can influence the stock market, at least in an i
 
 To test this hypothesis:
 
-1. I scrapped over nine thousand tweets published during 2016 from The Economist, The Wall Street Journal, and Bloomberg
+1. I scrapped over nine thousand tweets published during 2016 from The Economist, The Wall Street Journal, and Bloomberg, which tracked the presidential elections (Trump vs Clinton)
 2. I classified the sentiment of the tweets via the syuzhet package. Each tweet received a sentiment score over 8 emotions and 2 valences
 3. I ran a statistical test to check if a specific sentiment (fear) could influence the S&P500 Index
 
